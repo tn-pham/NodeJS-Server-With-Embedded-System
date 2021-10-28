@@ -1,0 +1,9 @@
+{
+	"name": "udp_relay_server",
+	"version": "0.0.1",
+	"description": "UDP relay server to make connection between Node.js and C.",
+	"dependencies": {
+		"mime": "^2.4.4",
+		"socket.io": "^2.3.0"
+	}
+}
